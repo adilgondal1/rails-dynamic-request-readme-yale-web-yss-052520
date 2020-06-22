@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Post.create(title: "First Post" , description: "This is my first post. I created it in my seeds.rb file. There are no other posts currently.")
